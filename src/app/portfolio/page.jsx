@@ -61,11 +61,11 @@ const portfolioCompanies = [
     description: "Subscription management for gyms and studios — automating billing and retention.",
     sector: "Tech Startup",
     stage: "Series A",
-    year: 2021,
+    year: 2025,
     logo: "/subit.png",
     website: "https://www.subit.in/",
     stats: {
-      Invested: "$3M",
+      Invested: "$4M",
       growth: "210% YoY",
       employees: "100"
     }
@@ -76,7 +76,7 @@ const portfolioCompanies = [
     description: "Big data analytics for healthcare optimization",
     sector: "Artificial Intelligence",
     stage: "Series A",
-    year: 2022,
+    year: 2024,
     logo: "/xbattery.png",
     website: "https://xbattery.energy/",
     stats: {
@@ -90,7 +90,7 @@ const portfolioCompanies = [
     name: "Medxcribe",
     description: "AI-powered drone logistics for delivery services",
     sector: "Artificial Intelligence",
-    stage: "Seed",
+    stage: "Pre-Seed",
     year: 2024,
     logo: "/medxcribe.png",
     website: "https://medxcribe.com",
@@ -166,12 +166,12 @@ const portfolioCompanies = [
     name: "BorderPlus",
     description: "AI-based data mining solutions for e-commerce optimization",
     sector: "Artificial Intelligence",
-    stage: "Series A",
-    year: 2022,
+    stage: "Seed",
+    year: 2025,
     logo: "/BorderPlus.co.png",
     website: "https://www.borderplus.co",
     stats: {
-      Invested: "$3.5M",
+      Invested: "$1.1M",
       growth: "275% YoY",
       employees: "112"
     }
@@ -196,7 +196,7 @@ const portfolioCompanies = [
     name: "Recyclaro",
     description: "Tech-enabled B2B recycling and compliance platform using IoT and smart tracking",
     sector: "Tech Startup",
-    stage: "SeED",
+    stage: "Seed",
     year: 2025,
     logo: "/recyclaro.com.png",
     website: "https://recyclaro.com/",
@@ -226,12 +226,12 @@ const portfolioCompanies = [
     name: "IntelliAiMentor",
     description: "AI-powered energy management and optimization platform",
     sector: "Artificial Intelligence",
-    stage: "Series A",
-    year: 2022,
+    stage: "Seed",
+    year: 2024,
     logo: "/intelliaimentor.com.png",
     website: "https://intelliaimentor.com",
     stats: {
-      Invested: "$4M",
+      Invested: "$540m",
       growth: "215% YoY",
       employees: "99"
     }
@@ -286,12 +286,12 @@ const portfolioCompanies = [
     name: "Vichar",
     description: "AI-powered robotic farming solutions for crop management",
     sector: "Machine Learning",
-    stage: "Seed",
+    stage: "Pre-Seed",
     year: 2025,
     logo: "/vichar.io.png",
     website: "https://vichar.io",
     stats: {
-      Invested: "$1M",
+      Invested: "$400K",
       growth: "185% YoY",
       employees: "98"
     }
@@ -346,25 +346,25 @@ const portfolioCompanies = [
     name: "Databutton",
     description: "AI-powered no-code platform to build full-stack web apps via natural language",
     sector: "Generative Technology",
-    stage: "Seed",
-    year: 2023,
+    stage: "Series A",
+    year: 2021,
     logo: "/databutton.com.png",
     website: "https://databutton.com",
     stats: {
-      Invested: "$1.9M",
+      Invested: "$7M",
       growth: "210% YoY",
       employees: "15"
     }
   },
   {
     id: 24,
-    name: "Gamma",
+    name: "XXX",
     description: "AI tool for creating presentations, docs & websites instantly",
     sector: "Artificial Intelligence",
     stage: "Series A",
     year: 2021,
-    logo: "/gamma.app.png",
-    website: "https://gamma.app",
+    logo: "/XXX",
+    website: "https://XXX",
     stats: {
       Invested: "$3M",
       growth: "150% YoY",
@@ -388,13 +388,13 @@ const portfolioCompanies = [
   },
   {
     id: 26,
-    name: "Looka",
+    name: "XXX",
     description: "AI platform to create logos, brand kits, and websites instantly",
     sector: "Artificial Intelligence",
     stage: "Series A",
     year: 2022,
-    logo: "/looka.com.png",
-    website: "https://looka.com",
+    logo: "/XXX",
+    website: "https://XXX",
     stats: {
       Invested: "$6M",
       growth: "175% YoY",
@@ -406,12 +406,12 @@ const portfolioCompanies = [
     name: "MaestroLabs",
     description: "AI assistant for emails and meetings—drafts, summaries, priorities",
     sector: "Artificial Intelligence",
-    stage: "Pre-Seed",
+    stage: "Seed",
     year: 2024,
     logo: "/maestrolabs.com.png",
-    website: "https://maestrolabs.ai",
+    website: "https://maestrolabs.com",
     stats: {
-      Invested: "$355K",
+      Invested: "$1M",
       growth: "260% YoY",
       employees: "15"
     }
@@ -451,7 +451,7 @@ const portfolioCompanies = [
     name: "OpenArt",
     description: "AI platform for generating images & videos from prompts or sketches",
     sector: "Generative Technology",
-    stage: "Seed",
+    stage: "Series A",
     year: 2023,
     logo: "/openart.ai.png",
     website: "https://openart.ai",

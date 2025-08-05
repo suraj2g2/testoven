@@ -169,7 +169,7 @@ const portfolioCompanies = [
     stage: "Series A",
     year: 2022,
     logo: "/BorderPlus.co.png",
-    website: "https://neuralink.ai",
+    website: "https://www.borderplus.co",
     stats: {
       Invested: "$3.5M",
       growth: "275% YoY",
@@ -199,7 +199,7 @@ const portfolioCompanies = [
     stage: "Series A",
     year: 2021,
     logo: "/recyclaro.com.png",
-    website: "https://biosynth.com",
+    website: "https://recyclaro.com/",
     stats: {
       Invested: "$4M",
       growth: "190% YoY",
@@ -334,7 +334,7 @@ const portfolioCompanies = [
     stage: "Pre-Seed",
     year: 2025,
     logo: "/labops.in.png",
-    website: "https://ecowatt.com",
+    website: "https://www.labops.in/",
     stats: {
       Invested: "$180K",
       growth: "120% YoY",
@@ -514,7 +514,7 @@ const portfolioCompanies = [
     stage: "Seed",
     year: 2023,
     logo: "/popai.pro.png",
-    website: "https://popai.pro.png",
+    website: "https://popai.pro",
     stats: {
       Invested: "$1.2M",
       growth: "170% YoY",

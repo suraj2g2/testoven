@@ -186,7 +186,7 @@ const portfolioCompanies = [
     logo: "/palify.io.png",
     website: "https://palify.io",
     stats: {
-      Invested: "2M",
+      Invested: "$2M",
       growth: "165% YoY",
       employees: "20"
     }
@@ -231,7 +231,7 @@ const portfolioCompanies = [
     logo: "/intelliaimentor.com.png",
     website: "https://intelliaimentor.com",
     stats: {
-      Invested: "$540m",
+      Invested: "$540K",
       growth: "215% YoY",
       employees: "99"
     }

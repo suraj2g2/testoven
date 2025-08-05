@@ -386,7 +386,7 @@ We're more than investors — we're collaborators, believers, and partners in In
                 <p className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-green-200 mb-2">
                   <AnimatedCounter to="72h" />
                 </p>
-                <p className="text-white/60"> Average Pitch Response TimePitch Review  Average Time 
+                <p className="text-white/60"> Average Pitch Response Time
 
 </p>
               </div>

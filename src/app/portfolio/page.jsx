@@ -31,7 +31,7 @@ const portfolioCompanies = [
     description: "Enfawns AI Transforming Your Imagination into Stunning Visuals",
     sector: "Artificial Intelligence",
     stage: "Seed",
-    year: 2024,
+    year: 2025,
     logo: "/enfawns.png",
     website: "https://enfawns.com/",
     stats: {
@@ -46,7 +46,7 @@ const portfolioCompanies = [
     description: "GalaxPlay AI chatbots deliver smarter, faster, and effortless customer experiences.",
     sector: "Generative Technology",
     stage: "Seed",
-    year: 2023,
+    year: 2025,
     logo: "/galaxplay.com.png",
     website: "https://galaxplay.com//",
     stats: {
@@ -136,7 +136,7 @@ const portfolioCompanies = [
     description: " AI device that turns kitchen waste into soil in under 40 hours",
     sector: "Generative Technology",
     stage: "Generative Technology",
-   stage: "Pre-Seed",
+   stage: "Seed",
     year: 2025,
     logo: "/mankomb.com.png",
     website: "https://mankomb.com",
@@ -182,11 +182,11 @@ const portfolioCompanies = [
     description: "Gamified professional networking platform with jobs, gigs & rewards",
     sector: "Machine Learning",
     stage: "Seed",
-    year: 2024,
+    year: 2025,
     logo: "/palify.io.png",
     website: "https://palify.io",
     stats: {
-      Invested: "640K",
+      Invested: "2M",
       growth: "165% YoY",
       employees: "20"
     }
@@ -196,12 +196,12 @@ const portfolioCompanies = [
     name: "Recyclaro",
     description: "Tech-enabled B2B recycling and compliance platform using IoT and smart tracking",
     sector: "Tech Startup",
-    stage: "Series A",
-    year: 2021,
+    stage: "SeED",
+    year: 2025,
     logo: "/recyclaro.com.png",
     website: "https://recyclaro.com/",
     stats: {
-      Invested: "$4M",
+      Invested: "$1M",
       growth: "190% YoY",
       employees: "88"
     }
@@ -212,7 +212,7 @@ const portfolioCompanies = [
     description: "AI-driven FinOps automation for SMEs—reconciliation, cashflow & collections",
     sector: "Artificial Intelligence",
     stage: " Seed",
-    year: 2024,
+    year: 2025,
     logo: "/OneCap.in.png",
     website: "https://OneCap.in",
     stats: {
@@ -242,7 +242,7 @@ const portfolioCompanies = [
     description: "AI-based diagnostic tools for genetic disorders",
     sector: "Generative Technology",
     stage: "Seed",
-    year: 2024,
+    year: 2025,
     logo: "/qikoffice.com.png",
     website: "https://qikoffice.com",
     stats: {
@@ -256,12 +256,12 @@ const portfolioCompanies = [
     name: "Karmipay",
     description: " Digital top-up & payment platform for gaming and mobile services",
     sector: "Tech Startup",
-    stage: "Series A",
-    year: 2021,
+    stage: "Seed",
+    year: 2025,
     logo: "/Karmipay.in.png",
     website: "https://Karmipay.in",
     stats: {
-      Invested: "$5M",
+      Invested: "$620K",
       growth: "270% YoY",
       employees: "150"
     }
@@ -272,11 +272,11 @@ const portfolioCompanies = [
     description: "Digital agency offering revenue, branding & OTA solutions for hotels",
     sector: "Artificial Intelligence",
     stage: "Seed",
-    year: 2024,
+    year: 2025,
     logo: "/therevup.in.png",
     website: "https://therevup.in",
     stats: {
-      Invested: "$800K",
+      Invested: "$500K",
       growth: "230% YoY",
       employees: "65"
     }
@@ -286,12 +286,12 @@ const portfolioCompanies = [
     name: "Vichar",
     description: "AI-powered robotic farming solutions for crop management",
     sector: "Machine Learning",
-    stage: "Series A",
-    year: 2022,
+    stage: "Seed",
+    year: 2025,
     logo: "/vichar.io.png",
     website: "https://vichar.io",
     stats: {
-      Invested: "$3.9M",
+      Invested: "$1M",
       growth: "185% YoY",
       employees: "98"
     }
@@ -302,11 +302,11 @@ const portfolioCompanies = [
     description: "AI-based vehicle automation for smarter transportation",
     sector: "Artificial Intelligence",
     stage: "Seed",
-    year: 2023,
+    year: 2024,
     logo: "/veridraft.agency.png",
     website: "https://veridraft.agency",
     stats: {
-      Invested: "$740K",
+      Invested: "$1M",
       growth: "150% YoY",
       employees: "58"
     }
@@ -321,7 +321,7 @@ const portfolioCompanies = [
     logo: "/myrsolar.com.png",
     website: "https://myrsolar.com",
     stats: {
-      Invested: "$500K",
+      Invested: "$250K",
       growth: "250% YoY",
       employees: "85"
     }
@@ -332,11 +332,11 @@ const portfolioCompanies = [
     description: "AI-powered rooftop solar solutions with 3D design and energy forecasting ",
     sector: "Machine Learning",
     stage: "Pre-Seed",
-    year: 2025,
+    year: 2024,
     logo: "/labops.in.png",
     website: "https://www.labops.in/",
     stats: {
-      Invested: "$180K",
+      Invested: "$270K",
       growth: "120% YoY",
       employees: "50"
     }

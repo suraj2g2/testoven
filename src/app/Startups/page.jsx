@@ -46,13 +46,13 @@ const StartupsPage = () => {
     },
     {
       name: "Enfawns",
-      sector: "Artificial Intelligenc",
+      sector: "Artificial Intelligence",
       stage: "Seed",
       logo: "/enfawns.png"
     },
     {
       name: "SubitGalaxPlay",
-      sector: "Tech Startup",
+      sector: "Generative Technology",
       stage: "Seed",
       logo: "/galaxplay.com.png"
     }

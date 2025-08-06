@@ -41,7 +41,7 @@ const StartupsPage = () => {
     {
       name: "DesiVocal",
       sector: "Artificial Intelligence",
-      stage: "Seed",
+      stage: "Series A",
       logo: "/desi-vocal-logo.png"
     },
     {
@@ -51,10 +51,10 @@ const StartupsPage = () => {
       logo: "/enfawns.png"
     },
     {
-      name: "Subit",
+      name: "SubitGalaxPlay",
       sector: "Tech Startup",
-      stage: "Pre-Seed",
-      logo: "/subit.png"
+      stage: "Seed",
+      logo: "/galaxplay.com.png"
     }
   ];
 

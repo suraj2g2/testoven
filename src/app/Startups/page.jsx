@@ -51,7 +51,7 @@ const StartupsPage = () => {
       logo: "/enfawns.png"
     },
     {
-      name: "SubitGalaxPlay",
+      name: "GalaxPlay",
       sector: "Generative Technology",
       stage: "Seed",
       logo: "/galaxplay.com.png"

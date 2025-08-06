@@ -358,17 +358,17 @@ const portfolioCompanies = [
   },
   {
     id: 24,
-    name: "XXX",
-    description: "AI tool for creating presentations, docs & websites instantly",
-    sector: "Artificial Intelligence",
-    stage: "Series A",
-    year: 2021,
-    logo: "/XXX",
-    website: "https://XXX",
+    name: "Stitchika",
+    description: "AI-powered tools for smarter customer and team conversations",
+    sector: "Generative Technology",
+    stage: "Pre-Seed",
+    year: 2025,
+    logo: "/stitchika.com.png",
+    website: "https://stitchika.com",
     stats: {
-      Invested: "$3M",
+      Invested: "$450K",
       growth: "150% YoY",
-      employees: "42"
+      employees: "12"
     }
   },
   {
@@ -388,17 +388,17 @@ const portfolioCompanies = [
   },
   {
     id: 26,
-    name: "XXX",
-    description: "AI platform to create logos, brand kits, and websites instantly",
-    sector: "Artificial Intelligence",
-    stage: "Series A",
-    year: 2022,
-    logo: "/XXX",
-    website: "https://XXX",
+    name: "Sodagro",
+    description: "Fastest AI-powered content generator for Sodagro",
+    sector: "Generative Technology",
+    stage: "Pre-Seed",
+    year: 2025,
+    logo: "/sodagro.com.png",
+    website: "https://sodagro.com",
     stats: {
-      Invested: "$6M",
+      Invested: "$500K",
       growth: "175% YoY",
-      employees: "40"
+      employees: "10"
     }
   },
   {

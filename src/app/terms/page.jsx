@@ -124,8 +124,7 @@ const TermsOfServicePage = () => {
             <p><strong>CapitalOven Legal Team</strong></p>
             <p>Email: <a href="mailto:legal@capitaloven.com" className="underline">legal@capitaloven.com</a></p>
             <p>
-              Address:<br />
-              BH-36, Sector-2, Salt Lake, Near Kathgola Island,<br />
+              Address: BH-36, Sector-2, Salt Lake, Near Kathgola Island,<br />
               Kolkata, West Bengal 700091, India
             </p>
           </div>

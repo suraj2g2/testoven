@@ -1,7 +1,7 @@
 "use client";
 import { motion } from "framer-motion";
 
-const PrivacyPolicyPage = () => {
+const TermsOfServicePage = () => {
   return (
     <div className="bg-gradient-to-b from-gray-900 to-black text-white">
       {/* Hero Section */}
@@ -20,21 +20,21 @@ const PrivacyPolicyPage = () => {
             className="text-4xl md:text-6xl font-bold mb-6"
           >
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-300">
-              Privacy Policy
+              Terms of Service
             </span>
           </motion.h1>
           <motion.p
-  initial={{ opacity: 0 }}
-  animate={{ opacity: 1 }}
-  transition={{ delay: 0.6, duration: 0.8 }}
-  className="text-xl text-white/80"
->
-  Last updated: February 1, 2025
-</motion.p>
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            transition={{ delay: 0.6, duration: 0.8 }}
+            className="text-xl text-white/80"
+          >
+            Effective Date: February 1, 2025
+          </motion.p>
         </div>
       </motion.section>
 
-      {/* Main Content */}
+      {/* Content */}
       <motion.section
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -42,79 +42,92 @@ const PrivacyPolicyPage = () => {
         className="px-6 max-w-4xl mx-auto prose prose-invert prose-lg"
       >
         <div className="bg-white/5 rounded-2xl p-8 md:p-12 border border-white/10 backdrop-blur-sm">
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">1. Introduction</h2>
-          <p className="mb-8">
-            CapitalOven is committed to protecting the privacy of visitors, founders, and partners who interact with our website. This Privacy Policy outlines how we collect, use, and safeguard your information.
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">1. Acceptance of Terms</h2>
+          <p>
+            By accessing or using capitaloven.com ("Site"), you agree to be bound by these Terms of Service and our Privacy Policy.
+            If you do not agree, please do not use the Site.
           </p>
 
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">2. Information We Collect</h2>
-          <p className="mb-4">We may collect the following types of information:</p>
-          <ul className="mb-8 list-disc pl-6 space-y-2">
-            <li><strong>Personal Data:</strong> Name, email address, and phone number when submitted via forms</li>
-            <li><strong>Usage Data:</strong> IP address, browser type, pages visited, time spent on site</li>
-            <li><strong>Cookies:</strong> Essential and analytics cookies (see Section 5)</li>
-          </ul>
-
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">3. How We Use Your Information</h2>
-          <p className="mb-4">We use the information to:</p>
-          <ul className="mb-8 list-disc pl-6 space-y-2">
-            <li>Operate and maintain our website</li>
-            <li>Respond to inquiries and provide support</li>
-            <li>Analyze usage to improve functionality and performance</li>
-            <li>Fulfill legal and regulatory requirements</li>
-          </ul>
-
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">4. Data Sharing & Disclosure</h2>
-          <p className="mb-2">We do not sell your personal information. We may share data with:</p>
-          <ul className="mb-8 list-disc pl-6 space-y-2">
-            <li>Service providers assisting in site operations (under strict confidentiality)</li>
-            <li>Legal authorities when required by law</li>
-            <li>Successors in the event of a merger, acquisition, or reorganization</li>
-          </ul>
-
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">5. Cookies & Tracking</h2>
-          <p className="mb-4">We use the following types of cookies:</p>
-          <ul className="mb-4 list-disc pl-6 space-y-2">
-            <li><strong>Essential Cookies:</strong> Required for basic site functions</li>
-            <li><strong>Analytics Cookies:</strong> Used to understand how users interact with our site</li>
-          </ul>
-          <p className="mb-8">You can manage or disable cookies via your browser settings.</p>
-
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">6. Data Security</h2>
-          <p className="mb-8">
-            We implement appropriate technical and organizational measures to protect your personal data. However, no method of transmission over the internet is completely secure, and we cannot guarantee absolute security.
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">2. Use of the Site</h2>
+          <p>
+            You agree to use the Site only for lawful purposes and in a manner that does not violate the rights of others.
+            You must not use the Site to distribute spam, malware, or engage in illegal activities.
           </p>
 
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">7. Your Rights</h2>
-          <p className="mb-4">Depending on your jurisdiction, you may have rights to:</p>
-          <ul className="mb-8 list-disc pl-6 space-y-2">
-            <li>Access, correct, or delete your data</li>
-            <li>Restrict or object to processing</li>
-            <li>Request data portability</li>
-            <li>Withdraw consent, where applicable</li>
-          </ul>
-
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">8. International Transfers</h2>
-          <p className="mb-8">
-            Your information may be stored and processed in countries where data protection laws may differ from those in your jurisdiction.
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">3. Intellectual Property</h2>
+          <p>
+            All content on the Site, including text, graphics, logos, and software, is the property of CapitalOven and protected by
+            copyright, trademark, and other laws. You may not reproduce or distribute content without our written permission.
           </p>
 
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">9. Children's Privacy</h2>
-          <p className="mb-8">
-            Our website is not intended for children under the age of 16. We do not knowingly collect data from minors without parental consent.
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">4. User Accounts</h2>
+          <p>
+            If you create an account on the Site, you are responsible for maintaining the confidentiality of your account and
+            password and for all activities under your account. Notify us immediately of any unauthorized use.
           </p>
 
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">10. Changes to This Policy</h2>
-          <p className="mb-8">
-            We may update this Privacy Policy periodically. Updates will be posted on this page with a revised “Last updated” date.
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">5. Limitation of Liability</h2>
+          <p>
+            To the fullest extent permitted by law, CapitalOven shall not be liable for any indirect, incidental, or consequential
+            damages resulting from your use or inability to use the Site.
           </p>
 
-          <h2 className="text-2xl font-bold mb-6 text-blue-400">11. Contact Us</h2>
-          <p className="mb-4">For any questions or concerns about this policy, contact us at:</p>
-          <div className="p-4 bg-white/5 rounded-lg">
-            <p>CapitalOven Privacy Team</p>
-            <p>privacy@capitaloven.com</p>
-            <p>BH-36, Sector-2, Salt Lake, Near Kathgola Island,<br />Kolkata, West Bengal 700091, India</p>
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">6. Disclaimer</h2>
+          <p>
+            The Site is provided "as is" without warranties of any kind, either express or implied. We do not guarantee that the
+            Site will always be secure, error-free, or available.
+          </p>
+
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">7. Termination</h2>
+          <p>
+            We may suspend or terminate your access to the Site at any time without notice, for conduct that we believe violates
+            these Terms or is harmful to other users or us.
+          </p>
+
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">8. Changes to the Terms</h2>
+          <p>
+            We may update these Terms at any time. Continued use of the Site after changes become effective means you agree to
+            the revised Terms. We will post the most current version on this page.
+          </p>
+
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">9. Governing Law</h2>
+          <p>
+            These Terms shall be governed by and construed in accordance with the laws of India, under the jurisdiction of the courts located in Kolkata, West Bengal.
+          </p>
+
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">10. Founder Submissions & Pitch Materials</h2>
+          <p>
+            By submitting your pitch or any business-related materials through the Site, you confirm that the information is accurate and that you are authorized to share it. While we handle submissions with care and discretion, CapitalOven cannot guarantee confidentiality or non-use unless a separate non-disclosure agreement (NDA) is signed in advance.
+          </p>
+
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">11. Access to Perks & Tools</h2>
+          <p>
+            Certain benefits, offers, or technology services ("Perks") may be made available to CapitalOven portfolio founders through the Site. These perks are offered at our discretion and may be modified, suspended, or terminated at any time. Additional terms from third-party providers may also apply.
+          </p>
+
+          <br />
+          <h2 className="text-2xl font-bold mb-6 text-blue-400">12. Contact Us</h2>
+          <p>
+            If you have any questions about these Terms, please contact us at:
+          </p>
+          <div className="mt-4 p-4 bg-white/5 rounded-lg">
+            <p><strong>CapitalOven Legal Team</strong></p>
+            <p>Email: <a href="mailto:legal@capitaloven.com" className="underline">legal@capitaloven.com</a></p>
+            <p>
+              Address:<br />
+              BH-36, Sector-2, Salt Lake, Near Kathgola Island,<br />
+              Kolkata, West Bengal 700091, India
+            </p>
           </div>
         </div>
       </motion.section>
@@ -122,4 +135,4 @@ const PrivacyPolicyPage = () => {
   );
 };
 
-export default PrivacyPolicyPage;
+export default TermsOfServicePage;

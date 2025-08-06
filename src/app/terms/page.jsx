@@ -43,76 +43,91 @@ const TermsOfServicePage = () => {
       >
         <div className="bg-white/5 rounded-2xl p-8 md:p-12 border border-white/10 backdrop-blur-sm">
           <h2 className="text-2xl font-bold mb-6 text-blue-400">1. Acceptance of Terms</h2>
-          <p className="mb-8">
+          <p>
             By accessing or using capitaloven.com ("Site"), you agree to be bound by these Terms of Service and our Privacy Policy.
             If you do not agree, please do not use the Site.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">2. Use of the Site</h2>
-          <p className="mb-8">
+          <p>
             You agree to use the Site only for lawful purposes and in a manner that does not violate the rights of others.
             You must not use the Site to distribute spam, malware, or engage in illegal activities.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">3. Intellectual Property</h2>
-          <p className="mb-8">
+          <p>
             All content on the Site, including text, graphics, logos, and software, is the property of CapitalOven and protected by
             copyright, trademark, and other laws. You may not reproduce or distribute content without our written permission.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">4. User Accounts</h2>
-          <p className="mb-8">
+          <p>
             If you create an account on the Site, you are responsible for maintaining the confidentiality of your account and
             password and for all activities under your account. Notify us immediately of any unauthorized use.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">5. Limitation of Liability</h2>
-          <p className="mb-8">
+          <p>
             To the fullest extent permitted by law, CapitalOven shall not be liable for any indirect, incidental, or consequential
             damages resulting from your use or inability to use the Site.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">6. Disclaimer</h2>
-          <p className="mb-8">
+          <p>
             The Site is provided "as is" without warranties of any kind, either express or implied. We do not guarantee that the
             Site will always be secure, error-free, or available.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">7. Termination</h2>
-          <p className="mb-8">
+          <p>
             We may suspend or terminate your access to the Site at any time without notice, for conduct that we believe violates
             these Terms or is harmful to other users or us.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">8. Changes to the Terms</h2>
-          <p className="mb-8">
+          <p>
             We may update these Terms at any time. Continued use of the Site after changes become effective means you agree to
             the revised Terms. We will post the most current version on this page.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">9. Governing Law</h2>
-          <p className="mb-8">
+          <p>
             These Terms shall be governed by and construed in accordance with the laws of India, under the jurisdiction of the courts located in Kolkata, West Bengal.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">10. Founder Submissions & Pitch Materials</h2>
-          <p className="mb-8">
+          <p>
             By submitting your pitch or any business-related materials through the Site, you confirm that the information is accurate and that you are authorized to share it. While we handle submissions with care and discretion, CapitalOven cannot guarantee confidentiality or non-use unless a separate non-disclosure agreement (NDA) is signed in advance.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">11. Access to Perks & Tools</h2>
-          <p className="mb-8">
+          <p>
             Certain benefits, offers, or technology services ("Perks") may be made available to CapitalOven portfolio founders through the Site. These perks are offered at our discretion and may be modified, suspended, or terminated at any time. Additional terms from third-party providers may also apply.
           </p>
 
+          <br />
           <h2 className="text-2xl font-bold mb-6 text-blue-400">12. Contact Us</h2>
-          <p className="mb-4">
+          <p>
             If you have any questions about these Terms, please contact us at:
           </p>
           <div className="mt-4 p-4 bg-white/5 rounded-lg">
-            <p>CapitalOven Legal Team</p>
-            <p>legal@capitaloven.com</p>
-            <p>BH-36, Sector-2, Salt Lake, Near Kathgola Island,<br />Kolkata, West Bengal 700091, India</p>
+            <p><strong>CapitalOven Legal Team</strong></p>
+            <p>Email: <a href="mailto:legal@capitaloven.com" className="underline">legal@capitaloven.com</a></p>
+            <p>
+              Address:<br />
+              BH-36, Sector-2, Salt Lake, Near Kathgola Island,<br />
+              Kolkata, West Bengal 700091, India
+            </p>
           </div>
         </div>
       </motion.section>

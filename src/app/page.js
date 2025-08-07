@@ -158,7 +158,7 @@ const Hero = () => {
     
     <div className="overflow-hidden">
          <Head>
-        <title>CapitalOven - AI & GenAI Startups from Seed to Series A</title>
+        <title>CapitalOven -  AI & GenAI Startups from Seed to Series A</title>
         <meta name="description" content="Your page description here" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>

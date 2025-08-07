@@ -156,14 +156,14 @@ const Hero = () => {
 
 return (
   <div className="overflow-hidden">
- <Head>
-  <title>CapitalOven – Backing AI & GenAI Startups from Seed to Series A</title>
-  <meta
-    name="description"
-    content="CapitalOven is a venture capital firm investing in AI/ML and Generative AI startups across India. We support bold founders from idea to scale with funding, insights, and a global network."
-  />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-</Head>
+    <Head>
+      <title>CapitalOven – Backing AI & GenAI Startups from Seed to Series A</title>
+      <meta
+        name="description"
+        content="CapitalOven is a venture capital firm investing in AI/ML and Generative AI startups across India..."
+      />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+    </Head>
 
 
 

@@ -120,12 +120,12 @@ const portfolioCompanies = [
     name: "AccrueWise",
     description: "Micro-savings platform that helps users save automatically from daily transactions.",
     sector: "Tech Startup",
-    stage: "Pre-Seed",
+    stage: "Seed",
     year: 2025,
     logo: "/accruewise.in.png",
     website: "https://accruewise.in",
     stats: {
-      Invested: "$400K",
+      Invested: "$1M",
       growth: "350% YoY",
       employees: "12"
     }
@@ -317,11 +317,11 @@ const portfolioCompanies = [
     description: "AI-driven vision enhancement for the visually impaired",
     sector: "Artificial Intelligence",
     stage: "Pre-Seed",
-    year: 2024,
+    year: 2025,
     logo: "/myrsolar.com.png",
     website: "https://myrsolar.com",
     stats: {
-      Invested: "$250K",
+      Invested: "$5M",
       growth: "250% YoY",
       employees: "85"
     }
@@ -361,12 +361,12 @@ const portfolioCompanies = [
     name: "Stitchika",
     description: "AI-powered tools for smarter customer and team conversations",
     sector: "Generative Technology",
-    stage: "Pre-Seed",
+    stage: "Seed",
     year: 2025,
     logo: "/stitchika.com.png",
     website: "https://stitchika.com",
     stats: {
-      Invested: "$450K",
+      Invested: "$500K",
       growth: "150% YoY",
       employees: "12"
     }
@@ -376,12 +376,12 @@ const portfolioCompanies = [
     name: "Imagineart",
     description: "AI platform to generate images, videos & music from text prompts",
     sector: "Generative Technology",
-    stage: "Pre-Seed",
-    year: 2025,
+    stage: "Seed",
+    year: 2023,
     logo: "/imagine.art.png",
     website: "https://imagine.art",
     stats: {
-      Invested: "$355K",
+      Invested: "$400K",
       growth: "300% YoY",
       employees: "15"
     }
@@ -411,7 +411,7 @@ const portfolioCompanies = [
     logo: "/maestrolabs.com.png",
     website: "https://maestrolabs.com",
     stats: {
-      Invested: "$1M",
+      Invested: "$1.3M",
       growth: "260% YoY",
       employees: "15"
     }
@@ -436,12 +436,12 @@ const portfolioCompanies = [
     name: "NightCafe",
     description: "AI art generator using Stable Diffusion, DALL·E & more",
     sector: "Artificial Intelligence",
-    stage: "Pre-Seed",
-    year: 2025,
+    stage: "Series A",
+    year: 2019,
     logo: "/nightcafe.studio.png",
     website: "https://nightcafe.studio",
     stats: {
-      Invested: "$367K",
+      Invested: "$5M",
       growth: "275% YoY",
       employees: "7"
     }
@@ -456,7 +456,7 @@ const portfolioCompanies = [
     logo: "/openart.ai.png",
     website: "https://openart.ai",
     stats: {
-      Invested: "$1M",
+      Invested: "$7M",
       growth: "200% YoY",
       employees: "15"
     }
@@ -466,12 +466,12 @@ const portfolioCompanies = [
     name: "Smallpdf",
     description: "PDF toolkit for compressing, editing, converting & signing documents",
     sector: "Tech Startup",
-    stage: "Pre-Seed",
-    year: 2023,
+    stage: "Series A",
+    year: 2013,
     logo: "/smallpdf.com.png",
     website: "https://smallpdf.com",
     stats: {
-      Invested: "$350K",
+      Invested: "$5M",
       growth: "260% YoY",
       employees: "15"
     }
@@ -481,12 +481,12 @@ const portfolioCompanies = [
     name: "Chariot",
     description: "AI website builder that creates full sites from chat prompts",
     sector: "Gen AI Startup",
-    stage: "Pre-Seed",
+    stage: "Seed",
     year: 2023,
     logo: "/chariotai.com.png",
     website: "https://chariotai.com",
     stats: {
-      Invested: "$300K",
+      Invested: "$1M",
       growth: "130% YoY",
       employees: "10"
     }
@@ -501,7 +501,7 @@ const portfolioCompanies = [
     logo: "/prayagai.com.png",
     website: "https://prayagai.com",
     stats: {
-      Invested: "$240K",
+      Invested: "$290K",
       growth: "320% YoY",
       employees: "10"
     }
@@ -511,12 +511,12 @@ const portfolioCompanies = [
     name: "PopAi",
     description: "AI workspace for chatting with files, generating slides, code, images & more",
     sector: "Gen AI Startup",
-    stage: "Seed",
+    stage: "Series A",
     year: 2023,
     logo: "/popai.pro.png",
     website: "https://popai.pro",
     stats: {
-      Invested: "$1.2M",
+      Invested: "$2M",
       growth: "170% YoY",
       employees: "25"
     }
@@ -571,12 +571,12 @@ const portfolioCompanies = [
     name: "chargZone",
     description: "EV charging network with ultra-fast chargers for cars, buses & trucks",
     sector: "Artificial Intelligence",
-    stage: "Series A",
-    year: 2022,
+    stage: "Pre-Seed",
+    year: 2025,
     logo: "/chargZone.com.png",
     website: "https://chargZone.com",
     stats: {
-      Invested: "$4M",
+      Invested: "$450K",
       growth: "250% YoY",
       employees: "137"
     }
@@ -606,7 +606,7 @@ const portfolioCompanies = [
     logo: "/cognitaraai.com.png",
     website: "https://cognitaraai.com",
     stats: {
-      Invested: "$182K",
+      Invested: "$350K",
       growth: "230% YoY",
       employees: "50"
     }
@@ -621,7 +621,7 @@ const portfolioCompanies = [
     logo: "/haritalani.com.png",
     website: "https://haritalani.com",
     stats: {
-      Invested: "$200K",
+      Invested: "$350K",
       growth: "280% YoY",
       employees: "20"
     }
@@ -632,7 +632,7 @@ const portfolioCompanies = [
     description: "TAI image generator from text prompts",
     sector: "Generative Technology",
     stage: "Pre-Seed",
-    year: 2024,
+    year: 2025,
     logo: "/puvitham.com.png",
     website: "https://puvitham.com",
     stats: {
@@ -852,7 +852,7 @@ const portfolioCompanies = [
             >
               <div className="md:h-64 ">
                 <img 
-                  src="/founder.jpg" 
+                  src="/founder.png " 
                   alt="Success story" 
                   className="w-full h-full object-cover hover:scale-105 transition duration-500"
                 />

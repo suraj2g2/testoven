@@ -31,7 +31,7 @@ const Hero = () => {
     {
       icon: <FiZap className="text-blue-400" size={24} />,
       title: " Fast, Clear Decisions",
-      description: "Get clarity fast. We review your pitch within 72 hours so you can stay in builder mode — not refresh mode."
+      description: "Get clarity fast. We review every pitch within 72 hours — so you can keep building, not refreshing your inbox."
     },
     {
       icon: <FiDollarSign className="text-green-400" size={24} />,
@@ -455,15 +455,14 @@ We're more than investors — we're collaborators, believers, and partners in In
             transition={{ duration: 0.6, delay: 0.1 }}
             className="text-xl text-white mb-12 max-w-2xl mx-auto text-center"
           >
-            We're here for ambitious founders solving meaningful problems with technology.
- If you're building something bold, we want to hear from you.
+            We back ambitious founders building bold solutions to meaningful problems. With 200+ startups funded over 14 years, yours could be next.
           </motion.p>
 
           {/* Content Row */}
           <div className="flex justify-center items-center text-center">
             <div className="flex items-center gap-3 mb-6">
                 <span className="text-2xl">📥</span>
-                <h3 className="text-4xl md:text-6xl font-bold text-sky-400 mb-4 text-center">What We Look For:</h3>
+                <h3 className="text-4xl md:text-6xl font-bold text-sky-400 mb-4 text-center">Founder Fit Checklist</h3>
               </div>
           </div>
           <div className="flex flex-col lg:flex-row gap-8 items-center justify-between">

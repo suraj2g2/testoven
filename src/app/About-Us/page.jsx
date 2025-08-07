@@ -403,7 +403,7 @@ From Seed to Series A and beyond, we scale our involvement to match your needs, 
               },
               {
                 title: "Impact at Scale",
-                desc: "We invest in startups with the potential to scale globally and create a lasting impact, transforming industries and improving lives through innovation.ion.",
+                desc: "We invest in startups with the potential to scale globally and create a lasting impact, transforming industries and improving lives through innovation.",
                 icon: <FiGlobe className="text-3xl" />
               }
             ].map((item, index) => (
@@ -587,7 +587,7 @@ From Seed to Series A and beyond, we scale our involvement to match your needs, 
               },
               {
                 title: "Intellectual Honesty",
-                desc: "With AI-powered insights and clear data-driven strategies, we foster trust through transparent communication and operations, creating long-lasting partnerships with our entrepreneurs.."
+                desc: "With AI-powered insights and clear data-driven strategies, we foster trust through transparent communication and operations, creating long-lasting partnerships with our entrepreneurs."
               },
               {
                 title: "Transparency & Trust",

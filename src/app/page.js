@@ -1,3 +1,8 @@
+export const metadata = {
+  title: "CapitalOven – Backing AI & GenAI Startups from Seed to Series A",
+  description:
+    "CapitalOven is a venture capital firm investing in AI/ML and Generative AI startups across India. We support bold founders from idea to scale with funding, insights, and a global network.",
+};
 "use client";
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
@@ -156,17 +161,6 @@ const Hero = () => {
 
 return (
   <div className="overflow-hidden">
-    <Head>
-      <title>CapitalOven – Backing AI & GenAI Startups from Seed to Series A</title>
-      <meta
-        name="description"
-        content="CapitalOven is a venture capital firm investing in AI/ML and Generative AI startups across India..."
-      />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-    </Head>
-
-
-
     <div className="overflow-hidden">
 
       <section className="relative h-screen overflow-hidden">

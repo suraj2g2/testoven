@@ -12,9 +12,9 @@ const AboutUs = () => {
 
   const stats = [
     { value: "200+", label: "Startups Funded", icon: <FiTrendingUp /> },
-    { value: "$200M+", label: "Capital Deployed", icon: <FiBarChart2 /> },
+    { value: "$250M+", label: "Capital Deployed", icon: <FiBarChart2 /> },
     { value: "14+", label: "Years Experience", icon: <FiAward /> },
-    { value: "50+", label: "Series A Startups Backed", icon: <FiGlobe /> }
+    { value: "5+", label: "Series A Startups Backed", icon: <FiGlobe /> }
   ];
 
 const team = [

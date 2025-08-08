@@ -393,7 +393,7 @@ From Seed to Series A and beyond, we scale our involvement to match your needs, 
             {[
               {
                 title: "Founder First",
-                desc: "We prioritize exceptional founders over ideas. Great founders adapt and evolve their ideas to succeed..",
+                desc: "We prioritize exceptional founders over ideas. Great founders adapt and evolve their ideas to succeed.",
                 icon: <FiUsers className="text-3xl" />
               },
               {

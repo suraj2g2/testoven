@@ -55,7 +55,7 @@ const TechnologyPerksPage = () => {
     {
        name: "Webflow for Startups",
       benefit: "100% off your first full year of a CMS site plan.",
-      logo: "/webflow.png"
+      logo: "/webflow1.png"
     },
     {
       name: "Nvidia",

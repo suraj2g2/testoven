@@ -11,7 +11,7 @@ const AboutUs = () => {
   const isInView = useInView(ref, { once: false, amount: 0.1 });
 
   const stats = [
-    { value: "200+", label: "Startups Funded", icon: <FiTrendingUp /> },
+    { value: "100+", label: "Startups Funded", icon: <FiTrendingUp /> },
     { value: "$250M+", label: "Capital Deployed", icon: <FiBarChart2 /> },
     { value: "14+", label: "Years Experience", icon: <FiAward /> },
     { value: "5+", label: "Series A Startups Backed", icon: <FiGlobe /> }

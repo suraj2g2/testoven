@@ -366,7 +366,7 @@ We're more than investors — we're collaborators, believers, and partners in In
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               <div>
                 <p className="text-4xl md:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-white to-cyan-200 mb-2">
-                  <AnimatedCounter to="200+" />
+                  <AnimatedCounter to="100+" />
                 </p>
                 <p className="text-white/60"> Startups Funded Since 2011</p>
               </div>

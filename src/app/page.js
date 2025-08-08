@@ -88,31 +88,41 @@ const Hero = () => {
   
 
   const AnimatedCounter = ({ to }) => {
-    const [count, setCount] = useState(0);
+  const [count, setCount] = useState(0);
 
-    useEffect(() => {
-      let start = 0;
-      const end = typeof to === "string" ? parseInt(to.replace(/\D/g, "")) : to;
-      if (start === end) return;
+  // Extract prefix, number, and suffix from the string
+  const str = String(to);
+  const match = str.match(/^(\D*)(\d[\d,]*)(\D*)$/);
+  const prefix = match ? match[1] : "";
+  const endNum = match ? parseInt(match[2].replace(/\D/g, ""), 10) : Number(to);
+  const suffix = match ? match[3] : "";
 
-      let duration = 2000;
-      let increment = end / (duration / 16);
+  useEffect(() => {
+    let start = 0;
+    const end = isNaN(endNum) ? 0 : endNum;
+    if (start === end) return;
 
-      const step = () => {
-        start += increment;
-        if (start < end) {
-          setCount(Math.ceil(start));
-          requestAnimationFrame(step);
-        } else {
-          setCount(end);
-        }
-      };
+    const duration = 2000;
+    const stepAmt = end / (duration / 16);
 
-      requestAnimationFrame(step);
-    }, [to]);
+    const step = () => {
+      start += stepAmt;
+      if (start < end) setCount(Math.ceil(start));
+      else setCount(end);
+      if (start < end) requestAnimationFrame(step);
+    };
 
-    return <>{count}{typeof to === "string" && to.match(/[^0-9]/g)?.join('')}</>;
-  };
+    requestAnimationFrame(step);
+  }, [endNum]);
+
+  return (
+    <>
+      {prefix}
+      {count.toLocaleString()}
+      {suffix}
+    </>
+  );
+};
    const industries = [
     {
       icon: <FaRobot className="text-blue-500 text-3xl" />,

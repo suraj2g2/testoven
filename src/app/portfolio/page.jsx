@@ -650,7 +650,7 @@ const portfolioCompanies = [
 
   // Portfolio stats
   const portfolioStats = [
-    { value: "200+", label: "Companies", icon: <FiUsers className="text-blue-400" /> },
+    { value: "100+", label: "Companies", icon: <FiUsers className="text-blue-400" /> },
     { value: "$1B+", label: "Total Value", icon: <FiDollarSign className="text-blue-400" /> },
     { value: "5+", label: "Countries", icon: <FiMapPin className="text-blue-400" /> },
     { value: "5+", label: "Unicorns", icon: <FiBarChart2 className="text-blue-400" /> }

@@ -53,9 +53,9 @@ const TechnologyPerksPage = () => {
       logo: "/google for startup.png"
     },
     {
-       name: "Microsoft",
-      benefit: "$150K in credits",
-      logo: "/microsoft .png"
+       name: "Webflow for Startups",
+      benefit: "100% off your first full year of a CMS site plan.",
+      logo: "/webflow.png"
     },
     {
       name: "Nvidia",
